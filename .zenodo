@@ -1,0 +1,22 @@
+{
+    "creators": [
+        {
+            "affiliation": "Institute for Medical Informatics and Statistics (IMIS), Kiel University and University Hospital Schleswig-Holstein",
+            "name": "Ulrich, Hannes",
+            "orcid": "0000-0002-8349-6798"
+        },
+        {
+            "affiliation": "Institute for Medical Informatics and Statistics (IMIS), Kiel University and University Hospital Schleswig-Holstein",
+            "name": "Pazmino Pinto, Santiago David",
+            "orcid": "0009-0009-7065-0221"
+        }
+    ],
+    "description": "This repository contains all HL7 FHIR Profiles for the IMPETUS CT Indexer.",
+    "keywords": [
+        "HL7 FHIR",
+        "Profiling",
+        "Semantic Interoperability"
+    ],
+    "title": "impetus-ct-indexer-fhir",
+    "upload_type": "software"
+}
